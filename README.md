@@ -1,3 +1,3 @@
 Mascot_archive
 ==============
-coucou
+Scripts to compress Mascot results into *.tar.gz* files of (more or less) fixed size.
